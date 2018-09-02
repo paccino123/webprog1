@@ -1,0 +1,40 @@
+body{
+  background : White;
+  font-family: arial;
+}
+h2,li{
+  colour: #555;
+
+}
+a{
+  colour: Black;
+}
+p{
+  background: DodgerBlue;
+  colour : White;
+  padding: 20px;
+}
+ul{
+  background : None;
+  colour: Green;
+}
+.secondary{
+  background: Tomato;
+  color: $color-green;
+
+}
+#ada{
+  color: #fff
+}
+.blue{
+  background: DodgerBlue;
+}
+.h2music{
+  background: DodgerBlue;
+}
+
+.row{
+  color: #fff;
+  text-align:left;
+
+}
